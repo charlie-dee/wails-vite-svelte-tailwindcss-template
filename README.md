@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Wails template using Svelte with Vite for asset bundling. Immediately after installing do the following:
+This is a Wails template using Svelte & Tailwindcss with Vite for asset bundling. Immediately after installing do the following:
  1. First, double-check the values in wails.json and frontend/package.json
  2. Run `npm install` from within the `frontend/` dir to install the JS dependencies
  3. Run `wails build` from the project root dir to build the `dist/` directory for the first time. Completing this is also a good first test.
